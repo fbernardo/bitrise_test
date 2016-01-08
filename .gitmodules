@@ -1,0 +1,3 @@
+[submodule "Frameworks/Mantle"]
+	path = Frameworks/Mantle
+	url = git@github.com:fbernardo/Mantle.git
